@@ -99,7 +99,7 @@ JDoodle.rb does not rely on any external dependencies. It uses Ruby's Net::HTTP 
 
 ## 📚 Documentation
 
-Documentation is available online at [RubyDoc](https://rubydoc.info/github/maloucaze/jdoodlerb). To generate offline documentation, run the following Rake task:
+Documentation is available online at [RubyDoc](https://rubydoc.info/github/maloucaze/jdoodle.rb). To generate offline documentation, run the following Rake task:
 
 ```
 $ bundle exec rake doc

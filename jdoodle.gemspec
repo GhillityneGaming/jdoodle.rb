@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.summary  = "Ruby client library for JDoodle API"
   s.authors  = ["Nick Maloucaze"]
   s.email    = "nickmaloucaze@gmail.com"
-  s.homepage = "https://rubygems.org/gems/jdoodle"
+  s.homepage = "https://github.com/maloucaze/jdoodle.rb"
   s.license  = "MIT"
   s.version  = JDoodle::VERSION
   s.files    = `git ls-files -z`.split("\x0")
@@ -18,10 +18,10 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
 
   s.metadata = {
-    "bug_tracker_uri" => "https://github.com/maloucaze/jdoodlerb/issues",
-    "changelog_uri" => "https://github.com/maloucaze/jdoodlerb/blob/master/CHANGELOG.md",
-    "source_code_uri" => "https://github.com/maloucaze/jdoodlerb",
-    "homepage_uri" => "https://rubygems.org/gems/jdoodle"
+    "bug_tracker_uri" => "https://github.com/maloucaze/jdoodle.rb/issues",
+    "changelog_uri" => "https://github.com/maloucaze/jdoodle.rb/blob/master/CHANGELOG.md",
+    "source_code_uri" => "https://github.com/maloucaze/jdoodle.rb",
+    "homepage_uri" => "https://github.com/maloucaze/jdoodle.rb"
   }
 
   s.add_development_dependency "bundler", "~> 2.0"
